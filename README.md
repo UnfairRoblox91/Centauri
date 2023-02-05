@@ -1,0 +1,2 @@
+# Centauri
+Config for Centauri
